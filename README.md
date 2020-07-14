@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bangbugs/bangbugs/3f5402efef9a0ae89211a6e04609558e862ca616/Readme/bg.png" alt="Header BG">
+<img src="https://raw.githubusercontent.com/bangbugs/bangbugs/master/Readme/bg.png" alt="Header BG">
 
 I like experimenting with new technologies, building small projects, and Freelancing. ✨
 
