@@ -1,4 +1,4 @@
-<img src="Readme/bg.gif" width=100% alt="Header BG">
+<img src="https://github.com/bangbugs/bangbugs/blob/master/Readme/bg.gif" width=100% alt="Header BG">
 <div align="center">
 <font size=5>I like experimenting with new technologies, building small projects, and Freelancing. ✨</font>
 </div>
